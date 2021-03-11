@@ -4,7 +4,8 @@ Fabrica de gadget-uri
 
 Operatorii unei fabrici de gadget-uri folosesc un soft pentru a gestiona seriile de dispozitive.
 Operatorul are la dispozitie functionalitatile:
-    1. Login. Dupa autentificarea cu success, sunt afisate toate seriile:
+
+   1. Login. Dupa autentificarea cu success, sunt afisate toate seriile:
 de tip Telefon(numeProducator, numeModel, unitatiProduse, listaOperatoriGSMCompatibili) si Drona(numeProducator, numeModel, unitatiProduse, numarRotoare)
 Un producator poate avea mai multe serii chiar si pentru acelasi model.
 
